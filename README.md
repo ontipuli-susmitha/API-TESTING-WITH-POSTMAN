@@ -82,5 +82,6 @@ The task objectives of API testing using Postman are successfully completed.
 ## output
 ![Image](https://github.com/user-attachments/assets/d23e65b8-5bb9-451a-b9af-cf391ea8b522)
 
+![Image](https://github.com/user-attachments/assets/90df1558-ad06-47cc-8195-678e8f382d01)
 
 
